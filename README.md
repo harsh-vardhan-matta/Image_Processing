@@ -37,9 +37,9 @@ python pmake.py -i input.png
 2. filter.py - Python file for convolution functions
 USAGE: python filter.py --image <image name>.<extention> -k <kernelname> 
 or 
-# python filter.py --image <image name>.<extention>
+#python filter.py --image <image name>.<extention>
 
-Example to run SHARPEN:
+Example to run Sharpen:
 python filter.py --image princeton_small.jpg -k sharpen
 Gaussian blur: python filter.py --image princeton_small.jpg -k gaussian blur
 EDGE: python filter.py --image princeton_small.jpg -k edge
@@ -47,3 +47,7 @@ or
 python filter.py --image input.png - for running all the filters
 or
 python filter.py --image input.png -kernel sharpen```
+
+HELP
+```python filter.py --help 
+python pmake.py --help```
