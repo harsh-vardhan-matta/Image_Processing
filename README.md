@@ -1,7 +1,7 @@
 # Image_Processing
---> This is one of the assignment of Princeton University based on Image Processing
+This is one of the assignment of Princeton University based on Image Processing
 
---> I try to process certain input images based on certain features and filters. I followed this link as a reference to implement certain filters: https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
+I try to process certain input images based on certain features and filters. I followed this link as a reference to implement certain filters: https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
 
 --> I am using Windows 10 and Pycharm as my IDE to implement this project. 
 One can also use Anaconda Platforms (Spider, Jupiter notebook etc.) 
