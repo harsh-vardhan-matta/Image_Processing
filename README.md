@@ -19,4 +19,5 @@ Pre-requirement to run this project:
    'OR' 
    pip install -r requirment.txt
 5) All the scripts lies here: 'D:\Datasets\pythonProject\Princeton_IP\img_pro'
+6) 
 
