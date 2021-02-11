@@ -33,6 +33,7 @@ For contrast: python pmake.py --image c.jpg -o contrast -f1 -1.0
 Or
 python pmake.py -i input.png
 
+
 2. filter.py - Python file for convolution functions
 USAGE: python filter.py --image <image name>.<extention> -k <kernelname> 
 or 
@@ -54,3 +55,5 @@ To run blur and composite:
 HELP
 ```python filter.py --help``` 
 ```python pmake.py --help```
+
+6. Linux or Mac OSX -- After setting virtual_env and put all necessary files inside that, run above mentioned commands on pmake and filter. #Warning: Output folder images will change automatically with change in input image After extracting anywhere.
