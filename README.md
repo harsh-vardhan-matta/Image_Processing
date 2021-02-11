@@ -47,3 +47,8 @@ or
 python filter.py --image input.png - for running all the filters
 or
 python filter.py --image input.png -kernel sharpen```
+
+
+HELP
+python filter.py --help 
+python pmake.py --help
