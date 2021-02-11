@@ -46,9 +46,9 @@ EDGE: python filter.py --image princeton_small.jpg -k edge
 or
 python filter.py --image input.png - for running all the filters
 or
-python filter.py --image input.png -kernel sharpen```
-
+python filter.py --image input.png -kernel sharpen
+```
 
 HELP
-python filter.py --help 
-python pmake.py --help
+```python filter.py --help``` 
+```python pmake.py --help```
