@@ -20,10 +20,10 @@ https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/example
    pip install -r requirment.txt
 5) All the scripts lies here: 'D:\Datasets\pythonProject\Princeton_IP\img_pro'
 
-``` PYTHON CODE ```
-File Structure
-output/ - Empty to start. Automatically writes the output images produced by the program into this folder with filter or option used. Do have a look before start
-input/ - contains sample images for experimentation. 
+
+```PYTHON CODE --> File Structure```
+1) output/ - Empty to start. Automatically writes the output images produced by the program into this folder with filter or option used. Do have a look before start
+2) input/ - contains sample images for experimentation. 
 
 Command Line Argument
 ```1. pmake.py - Python file to run the functions like {bright, contrast, blur, scale}
