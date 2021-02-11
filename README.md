@@ -48,8 +48,8 @@ or
 python filter.py --image input.png -kernel sharpen
 ```
 To run blur and composite: 
-```python blur.py```
-``` python composite.py ```
+```python blur.py
+python composite.py ```
 
 HELP
 ```python filter.py --help``` 
