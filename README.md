@@ -56,4 +56,6 @@ HELP
 ```python filter.py --help``` 
 ```python pmake.py --help```
 
-6. Linux or Mac OSX -- After setting virtual_env and put all necessary files inside that, run above mentioned commands on pmake and filter. #Warning: Output folder images will change automatically with change in input image After extracting anywhere.
+6) Linux or Mac OSX -- After setting virtual_env and put all necessary files inside that, run above mentioned commands on pmake and filter. #Warning: Output folder images will change automatically with change in input image After extracting anywhere.
+
+7) Write.html: Edit this section if you experiment with more filters and display results
