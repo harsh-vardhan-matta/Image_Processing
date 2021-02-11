@@ -25,11 +25,11 @@ File Structure
 output/ - Empty to start. Automatically writes the output images produced by the program into this folder with filter or option used. Do have a look before start
 input/ - contains sample images for experimentation. 
 
-``` Command Line Argument ```
-1. pmake.py - Python file to run the functions like {bright, contrast, blur, scale}
-``` USAGE: python pmake.py -i<image_path>.<extention> -o <option> -f1<int_factor> -f2 <factor2> ```
-1.1 bright : python pmake.py --image princeton_small.jpg -o bright -f1 4
-1.2 scale :  python pmake.py --image scale_input.jpg -o scale -f1 1080 -f2 1080  
+Command Line Argument
+```1. pmake.py - Python file to run the functions like {bright, contrast, blur, scale}
+USAGE: python pmake.py -i<image_path>.<extention> -o <option> -f1<int_factor> -f2 <factor2> ```
+Foe bright : ```python pmake.py --image princeton_small.jpg -o bright -f1 4 ```
+For scale :  ```python pmake.py --image scale_input.jpg -o scale -f1 1080 -f2 1080 ``` 
 1.3 contrast: python pmake.py --image c.jpg -o contrast -f1 -1.0 
 Or
 1.4 python pmake.py -i input.png
@@ -43,6 +43,5 @@ Example to run SHARPEN:
 or
 python filter.py --image input.png - for running all the filters
 or
-python filter.py --image input.png -kernel sharpen
-
+python filter.py --image input.png -kernel sharpen```
 
